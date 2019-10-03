@@ -1,10 +1,10 @@
 #Greenfoot project file
 class.Kouichi.image=bee.png
 class.ore.image=pumpkin.png
-editor.fx.0.height=739
-editor.fx.0.width=816
-editor.fx.0.x=552
-editor.fx.0.y=100
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
 height=585
 package.numDependencies=0
 package.numTargets=3
@@ -46,5 +46,5 @@ target3.y=0
 version=3.0.0
 width=825
 world.lastInstantiated=MyWorld
-xPosition=310
-yPosition=223
+xPosition=128
+yPosition=149
