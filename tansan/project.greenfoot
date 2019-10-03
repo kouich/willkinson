@@ -1,11 +1,15 @@
 #Greenfoot project file
 class.Kouichi.image=bee.png
+<<<<<<< HEAD
 class.buble.image=steel-ball.png
+=======
+class.bunbun.image=bee.png
+>>>>>>> e35089e99e0864167bdd8d29f93700415dd81a0f
 class.ore.image=pumpkin.png
-editor.fx.0.height=739
-editor.fx.0.width=816
-editor.fx.0.x=552
-editor.fx.0.y=100
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
 height=585
 package.numDependencies=0
 package.numTargets=4
@@ -45,14 +49,18 @@ target3.width=80
 target3.x=0
 target3.y=0
 target4.height=50
+<<<<<<< HEAD
 target4.name=MyWorld
+=======
+target4.name=bunbun
+>>>>>>> e35089e99e0864167bdd8d29f93700415dd81a0f
 target4.showInterface=false
 target4.type=ClassTarget
 target4.width=80
 target4.x=0
 target4.y=0
 version=3.0.0
-width=825
+width=974
 world.lastInstantiated=MyWorld
 xPosition=32
 yPosition=160
